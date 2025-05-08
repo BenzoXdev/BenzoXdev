@@ -18,9 +18,6 @@
   <a href="https://www.linux.org/" title="Linux" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" style="width:40px; height:40px;" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/Shell_(computing)" title="Shell Script" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell Script" style="width:40px; height:40px;" />
-  </a>
   <a href="https://www.kali.org/" title="Kali Linux" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" style="width:40px; height:40px;" />
   </a>
@@ -37,6 +34,9 @@
   </a>
   <a href="https://www.python.org/" title="Python" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width:40px; height:40px;" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Shell_(computing)" title="Shell Script" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell Script" style="width:40px; height:40px;" />
   </a>
   <a href="https://www.java.com/" title="Java" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="width:40px; height:40px;" />
