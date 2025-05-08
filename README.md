@@ -1,20 +1,74 @@
 <h1 align="center">Hi 👋, I'm BenzoXdev</h1>
-<h3 align="center">A passionate full stack developer from Algeria</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benzoxdev&label=Profile%20views&color=0e75b6&style=flat" alt="benzoxdev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benzoxdev" alt="benzoxdev" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">A passionate Full Stack Developer from Algeria</h3><p align="left">
+  <img src="https://komarev.com/ghpvc/?username=benzoxdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p><p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">
+    <img src="https://github-profile-trophy.vercel.app/?username=benzoxdev" alt="GitHub Trophies" />
+  </a>
+</p><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/just._.benzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just._.benzo" height="30" width="40" /></a>
+  <a href="https://instagram.com/just._.benzo" target="_blank" rel="noreferrer" title="Instagram">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" style="width:30px; height:30px;" />
+  </a>
+</p><h3 align="left">Languages &amp; Tools:</h3>
+<p align="left" style="display:flex; flex-wrap:wrap; gap:12px;">
+  <!-- Mobile -->
+  <a href="https://developer.android.com" title="Android" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" style="width:40px; height:40px;" />
+  </a>  <!-- Shell -->  <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" style="width:40px; height:40px;" />
+  </a>  <!-- Web Languages -->  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" style="width:40px; height:40px;" />
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" style="width:40px; height:40px;" />
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width:40px; height:40px;" />
+  </a>  <!-- Backend & Languages -->  <a href="https://www.python.org/" title="Python" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width:40px; height:40px;" />
+  </a>
+  <a href="https://www.java.com/" title="Java" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="width:40px; height:40px;" />
+  </a>
+  <a href="https://golang.org/" title="Go" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" style="width:40px; height:40px;" />
+  </a>
+  <a href="https://dotnet.microsoft.com/languages/csharp" title="C#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" style="width:40px; height:40px;" />
+  </a>
+  <a href="https://www.ruby-lang.org/en/" title="Ruby" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" style="width:40px; height:40px;" />
+  </a>  <!-- DevOps -->  <a href="https://www.docker.com/" title="Docker" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" style="width:40px; height:40px;" />
+  </a>
+  <a href="https://git-scm.com/" title="Git" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" style="width:40px; height:40px;" />
+  </a>  <!-- Databases -->  <a href="https://www.mysql.com/" title="MySQL" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" style="width:40px; height:40px;" />
+  </a>  <!-- Frameworks & Libraries -->  <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" style="width:40px; height:40px;" />
+  </a>
+  <a href="https://reactjs.org/" title="React" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" style="width:40px; height:40px;" />
+  </a>
+  <a href="https://vuejs.org/" title="Vue.js" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" style="width:40px; height:40px;" />
+  </a>  <!-- Operating Systems & Tools -->  <a href="https://learn.microsoft.com/en-us/powershell/" title="PowerShell" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" style="width:40px; height:40px;" />
+  </a>
+  <a href="https://www.microsoft.com/windows" title="Windows" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" style="width:40px; height:40px;" />
+  </a>
+  <a href="https://www.kali.org/" title="Kali Linux" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Kali Linux" style="width:40px; height:40px;" />
+  </a>
+</p><p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benzoxdev&show_icons=true&locale=en&layout=compact" alt="Top languages" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benzoxdev&show_icons=true&locale=en&layout=compact" alt="benzoxdev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benzoxdev&show_icons=true&locale=en" alt="benzoxdev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benzoxdev&" alt="benzoxdev" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=benzoxdev&show_icons=true&locale=en" alt="GitHub stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benzoxdev" alt="Streak stats" />
+</p>
