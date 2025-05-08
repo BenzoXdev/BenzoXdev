@@ -79,6 +79,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=benzoxdev&show_icons=true&locale=en" alt="GitHub stats" />
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=benzoxdev&show_icons=true&locale=en&hide_border=true&locale=en" alt="GitHub streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=benzoxdev&show_icons=true&hide_border=true&locale=en" alt="GitHub Stats" />
 </p>
