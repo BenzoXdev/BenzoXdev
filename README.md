@@ -6,10 +6,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=benzoxdev" alt="GitHub Trophies" />
   </a>
 </p><h3 align="left">Connect with me:</h3>
-<p align="left" style="display:flex; gap:12px;">
-  <a href="https://instagram.com/just._.benzo" target="_blank" rel="noreferrer" title="Instagram">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" style="width:30px; height:30px;" />
+<p align="left">
+  <a href="https://instagram.com/just._.benzo" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+</p>
 </p><h3 align="left">Platforms &amp; Shell:</h3>
 <p align="left" style="display:flex; flex-wrap:wrap; gap:12px;">
   <a href="https://www.microsoft.com/windows" title="Windows" target="_blank" rel="noreferrer">
@@ -64,11 +65,6 @@
   <a href="https://git-scm.com/" title="Git" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" style="width:40px; height:40px;" />
   </a>
-  <!-- GitHub -->
-<a href="https://github.com/" title="GitHub" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="width:40px; height:40px;" />
-</a>
-
 <!-- Visual Studio Code -->
 <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" style="width:40px; height:40px;" />
