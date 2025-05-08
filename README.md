@@ -6,18 +6,27 @@
     <img src="https://github-profile-trophy.vercel.app/?username=benzoxdev" alt="GitHub Trophies" />
   </a>
 </p><h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display:flex; gap:12px;">
   <a href="https://instagram.com/just._.benzo" target="_blank" rel="noreferrer" title="Instagram">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" style="width:30px; height:30px;" />
   </a>
-</p><h3 align="left">Languages &amp; Tools:</h3>
+</p><h3 align="left">Platforms &amp; Shell:</h3>
 <p align="left" style="display:flex; flex-wrap:wrap; gap:12px;">
-  <!-- Mobile -->
-  <a href="https://developer.android.com" title="Android" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" style="width:40px; height:40px;" />
-  </a>  <!-- Shell -->  <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" style="width:40px; height:40px;" />
-  </a>  <!-- Web Languages -->  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5" target="_blank" rel="noreferrer">
+  <a href="https://www.microsoft.com/windows" title="Windows" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" style="width:40px; height:40px;" />
+  </a>
+  <a href="https://www.linux.org/" title="Linux" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" style="width:40px; height:40px;" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Shell_(computing)" title="Shell Script" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell Script" style="width:40px; height:40px;" />
+  </a>
+  <a href="https://www.kali.org/" title="Kali Linux" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" style="width:40px; height:40px;" />
+  </a>
+</p><h3 align="left">Languages:</h3>
+<p align="left" style="display:flex; flex-wrap:wrap; gap:12px;">
+  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" style="width:40px; height:40px;" />
   </a>
   <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3" target="_blank" rel="noreferrer">
@@ -25,7 +34,8 @@
   </a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width:40px; height:40px;" />
-  </a>  <!-- Backend & Languages -->  <a href="https://www.python.org/" title="Python" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://www.python.org/" title="Python" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width:40px; height:40px;" />
   </a>
   <a href="https://www.java.com/" title="Java" target="_blank" rel="noreferrer">
@@ -39,14 +49,22 @@
   </a>
   <a href="https://www.ruby-lang.org/en/" title="Ruby" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" style="width:40px; height:40px;" />
-  </a>  <!-- DevOps -->  <a href="https://www.docker.com/" title="Docker" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://www.php.net/" title="PHP" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" style="width:40px; height:40px;" />
+  </a>
+  <a href="https://nodejs.org/" title="Node.js" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" style="width:40px; height:40px;" />
+  </a>
+</p><h3 align="left">Frameworks &amp; Tools:</h3>
+<p align="left" style="display:flex; flex-wrap:wrap; gap:12px;">
+  <a href="https://www.docker.com/" title="Docker" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" style="width:40px; height:40px;" />
   </a>
   <a href="https://git-scm.com/" title="Git" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" style="width:40px; height:40px;" />
-  </a>  <!-- Databases -->  <a href="https://www.mysql.com/" title="MySQL" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" style="width:40px; height:40px;" />
-  </a>  <!-- Frameworks & Libraries -->  <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" style="width:40px; height:40px;" />
   </a>
   <a href="https://reactjs.org/" title="React" target="_blank" rel="noreferrer">
@@ -54,14 +72,6 @@
   </a>
   <a href="https://vuejs.org/" title="Vue.js" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" style="width:40px; height:40px;" />
-  </a>  <!-- Operating Systems & Tools -->  <a href="https://learn.microsoft.com/en-us/powershell/" title="PowerShell" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" style="width:40px; height:40px;" />
-  </a>
-  <a href="https://www.microsoft.com/windows" title="Windows" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" style="width:40px; height:40px;" />
-  </a>
-  <a href="https://www.kali.org/" title="Kali Linux" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Kali Linux" style="width:40px; height:40px;" />
   </a>
 </p><p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benzoxdev&show_icons=true&locale=en&layout=compact" alt="Top languages" />
@@ -70,5 +80,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=benzoxdev&show_icons=true&locale=en" alt="GitHub stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benzoxdev" alt="Streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=benzoxdev&show_icons=true&locale=en&hide_border=true&locale=en" alt="GitHub streak" />
 </p>
