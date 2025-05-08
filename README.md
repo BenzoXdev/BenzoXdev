@@ -64,15 +64,15 @@
   <a href="https://git-scm.com/" title="Git" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" style="width:40px; height:40px;" />
   </a>
-  <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" style="width:40px; height:40px;" />
-  </a>
-  <a href="https://reactjs.org/" title="React" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" style="width:40px; height:40px;" />
-  </a>
-  <a href="https://vuejs.org/" title="Vue.js" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" style="width:40px; height:40px;" />
-  </a>
+  <!-- GitHub -->
+<a href="https://github.com/" title="GitHub" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="width:40px; height:40px;" />
+</a>
+
+<!-- Visual Studio Code -->
+<a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" style="width:40px; height:40px;" />
+</a>
 </p><p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benzoxdev&show_icons=true&locale=en&layout=compact" alt="Top languages" />
 </p>
