@@ -51,6 +51,9 @@
   <a href="https://www.ruby-lang.org/en/" title="Ruby" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" style="width:40px; height:40px;" />
   </a>
+  <a href="https://learn.microsoft.com/fr-fr/powershell/" title="PowerShell" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" style="width:40px; height:40px;" />
+  </a>
   <a href="https://www.php.net/" title="PHP" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" style="width:40px; height:40px;" />
   </a>
