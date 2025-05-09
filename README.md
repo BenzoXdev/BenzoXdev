@@ -1,14 +1,23 @@
 <h1 align="center">Hi 👋, I'm BenzoXdev</h1>
-<h3 align="center">A passionate Full Stack Developer from Algeria</h3><p align="left">
+<h3 align="center">A passionate Full Stack Developer from Algeria</h3>
+
+<!-- Profile views counter -->
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=benzoxdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p><p align="left">
+</p>
+
+<!-- GitHub Trophies -->
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">
     <img src="https://github-profile-trophy.vercel.app/?username=benzoxdev" alt="GitHub Trophies" />
   </a>
-</p><h3 align="left">Connect with me:</h3>
+</p>
+
+<!-- Instagram social icon -->
+### To contact me
 <p align="left">
-  <a href="https://instagram.com/just._.benzo" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/just._.benzo?igsh=MWEwZDczbDZld2J4cw==" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
   </a>
 </p>
 </p><h3 align="left">Platforms &amp; Shell:</h3>
@@ -75,12 +84,10 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BenzoXdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BenzoXdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="210" alt="stats graph"  />
 </div>
 <br clear="both">
-
-<!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-</div>
+<!-- Snake Animation Agrandie et Fonctionnelle -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg" width="1000" alt="snake gif" />
+</p>
