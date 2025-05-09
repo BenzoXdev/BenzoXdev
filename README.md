@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm BenzoXdev</h1>
-<h3 align="center">A passionate Full Stack Developer from Algeria</h3><p align="left">
+**<h1 align="center">Hi 👋, I'm BenzoXdev</h1>
+<h3 align="c****enter">A passionate Full Stack Developer from Algeria</h3><p align="left">
   <img src="https://komarev.com/ghpvc/?username=benzoxdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p><p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">
@@ -78,3 +78,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=benzoxdev&show_icons=true&hide_border=true&locale=en" alt="GitHub Stats" />
 </p>
+**
