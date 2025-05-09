@@ -5,7 +5,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=benzoxdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
 <!-- GitHub Trophies -->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">
@@ -85,12 +84,11 @@
 
 ### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emmaglorypraise&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=benzoxdev&show_icons=true&theme=radical" alt="GitHub stats for benzoxdev" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmaglorypraise&langs_count=8&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benzoxdev&langs_count=8&layout=compact&theme=radical" alt="Top languages used by benzoxdev" />
 </a>
-<br clear="both">
 <!-- Snake Animation Agrandie et Fonctionnelle -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg" width="1000" alt="snake gif" />
