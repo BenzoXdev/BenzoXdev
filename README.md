@@ -85,8 +85,7 @@
 ### Stats
 
 <!-- Statistiques GitHub pour benzoxdev (contributions, repos, followers) -->
-[![GitHub stats for benzoxdev](https://github-readme-stats.vercel.app/api?username=benzoxdev&show_icons=true&theme=radical&cache_seconds=60)](https://github.com/benzoxdev)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=benzoxdev&theme=radical)](https://git.io/streak-stats)
 <!-- Principales langues utilisées par benzoxdev -->
 [![Top languages used by benzoxdev](https://github-readme-stats.vercel.app/api/top-langs/?username=benzoxdev&langs_count=8&layout=compact&theme=radical&cache_seconds=60)](https://github.com/benzoxdev)
 
