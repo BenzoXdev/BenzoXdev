@@ -68,6 +68,9 @@
   <a href="https://nodejs.org/" title="Node.js" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" style="width:40px; height:40px;" />
   </a>
+  <a href="https://www.php.net/" title="NIM" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nim/nim-original.svg" alt="PHP" style="width:40px; height:40px;" />
+  </a>
 </p><h3 align="left">Frameworks &amp; Tools:</h3>
 <p align="left" style="display:flex; flex-wrap:wrap; gap:12px;">
   <a href="https://www.docker.com/" title="Docker" target="_blank" rel="noreferrer">
