@@ -4,7 +4,8 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&lines=Full+Stack+Developer+%7C+Security+Enthusiast;Building+Next-Gen+Web+Applications;Passionate+About+Clean+Code;Always+Learning+%26+Growing+🚀" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+from+Algeria;Passionate+about+Cybersecurity;Building+Innovative+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+</div>
 
 <br/>
 
@@ -160,49 +161,6 @@ const BenzoXdev = {
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benzoxdev/benzoxdev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benzoxdev/benzoxdev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/benzoxdev/benzoxdev/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 🎯 Current Projects & Goals
-
-<div align="center">
-```mermaid
-mindmap
-  root((BenzoXdev))
-    Projects
-      Web Applications
-      API Development
-      Security Tools
-      Open Source
-    Learning
-      Cloud Architecture
-      AI & Machine Learning
-      Advanced Security
-      System Design
-    Goals
-      Contribute More
-      Build Products
-      Share Knowledge
-      Help Community
-```
-
-</div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -225,13 +183,6 @@ mindmap
 
 <div align="center">
 
-### ⚡ Fun Facts
-
-🎮 When I'm not coding, I'm probably gaming or exploring cybersecurity challenges  
-🌙 Night owl - my best code is written after midnight  
-☕ Powered by coffee and curiosity  
-🎯 Goal: Make the web a better and safer place
-
 </div>
 
 <br/>
@@ -249,6 +200,7 @@ mindmap
 <img src="https://img.shields.io/github/stars/benzoxdev?style=social" alt="GitHub stars"/>
 
 <br/><br/>
+
 
 **💙 Thanks for visiting my profile! Let's build something amazing together!**
 
