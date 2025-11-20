@@ -4,8 +4,7 @@
 <!-- Profile views counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=benzoxdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-<!-- GitHub Trophies -->
+</p><!-- GitHub Trophies -->
 <li>
   <a href="https://github.com/benzoxdev">
     <img src="https://github-profile-trophy.vercel.app/?username=benzoxdev&theme=radical&no-frame=true&margin-w=5" alt="Trophées GitHub" />
@@ -15,7 +14,7 @@
 <!-- Instagram social icon -->
 ### To contact me
 <p align="left">
-  <a href="https://www.instagram.com/just._.benzo?igsh=MWEwZDczbDZld2J4cw==" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/just._.amar_x1?igsh=MWEwZDczbDZld2J4cw==" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
   </a>
 </p>
