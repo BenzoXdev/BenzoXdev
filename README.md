@@ -47,13 +47,13 @@ const BenzoXdev = {
 
 ## 🤝 Connect With Me
 
-<a href="https://www.instagram.com/just._.benzo?igsh=MWEwZDczbDZld2J4cw==">
+<a href="https://www.instagram.com/just._.amar_x1?igsh=MWEwZDczbDZld2J4cw==">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"/>
 </a>
 <a href="https://github.com/benzoxdev">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
 </a>
-<a href="mailto:contact@benzoxdev.com">
+<a href="mailto:mimarliyes@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
 </a>
 
