@@ -9,11 +9,14 @@
 
 <br/>
 
+<div align="center">
+
 [![Profile Views](https://komarev.com/ghpvc/?username=benzoxdev&label=Profile%20Views&color=00d9ff&style=for-the-badge&labelColor=000000)](https://github.com/benzoxdev)
 [![GitHub followers](https://img.shields.io/github/followers/benzoxdev?label=Followers&style=for-the-badge&color=blueviolet&labelColor=000000)](https://github.com/benzoxdev?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/benzoxdev?label=Total%20Stars&style=for-the-badge&color=yellow&labelColor=000000)](https://github.com/benzoxdev?tab=repositories)
 
 </div>
+
 
 <br/>
 
