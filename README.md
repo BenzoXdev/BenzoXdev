@@ -137,20 +137,6 @@ const BenzoXdev = {
 
 <br/>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/api/?username=benzoxdev&theme=radical&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
 ## 💡 Random Dev Quote
 
 <div align="center">
