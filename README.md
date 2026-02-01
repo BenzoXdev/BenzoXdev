@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+from+Algeria;Passionate+about+Cybersecurity;Building+Innovative+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Algeria;Passionate+about+Cybersecurity;Building+Innovative+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -20,7 +20,7 @@
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> About Me
+## 👨‍💻 About Me
 ```typescript
 const BenzoXdev = {
     location: "Algeria 🇩🇿",
@@ -68,38 +68,43 @@ const BenzoXdev = {
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> Tech Stack
+## Tech Stack
 
 <div align="center">
 
 ### 💻 Languages
+*Programming Languages*
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,go,cs,ruby,php,bash,powershell,nim&theme=dark&perline=13" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,nim,js,ts,cs,java,go,php,ruby&theme=dark&perline=9" alt="Programming Languages"/>
 </p>
 
 ### 🎨 Frontend Development
+*Frontend Technologies*
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,nuxt,tailwind,bootstrap,sass,materialui,jquery,webpack,vite&theme=dark&perline=12" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark&perline=6" alt="Frontend Technologies"/>
 </p>
 
 ### ⚙️ Backend & Databases
+*Backend Technologies*
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,dotnet,laravel,mongodb,mysql,postgresql,redis,firebase&theme=dark&perline=13" alt="Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,firebase&theme=dark&perline=6" alt="Backend Technologies"/>
 </p>
 
 ### 🛠️ DevOps & Tools
+*DevOps Tools*
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,nginx,linux,ubuntu,kali,windows,vscode,vim,postman&theme=dark&perline=13" alt="DevOps Tools"/>
+  <img src="https://skillicons.dev/icons?i=linux,docker,github,vscode,kali,windows,bash,powershell&theme=dark&perline=8" alt="DevOps Tools"/>
 </p>
 
 ### ☁️ Cloud & Platforms
+*Cloud Platforms*
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,vercel,netlify,cloudflare,digitalocean&theme=dark&perline=8" alt="Cloud Platforms"/>
+  <img src="https://skillicons.dev/icons?i=firebase,aws,vercel,netlify&theme=dark&perline=6" alt="Cloud Platforms"/>
 </p>
 
 </div>
@@ -113,24 +118,16 @@ const BenzoXdev = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=benzoxdev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF&fire=FF6B6B" alt="GitHub Stats"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=benzoxdev&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benzoxdev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=12&hide=jupyter%20notebook" alt="Top Languages"/>
-
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=benzoxdev&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF" alt="Contribution Stats"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  
+
 ### 📈 Contribution Graph
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=benzoxdev&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BenzoXdev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -144,7 +141,7 @@ const BenzoXdev = {
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
+<blockquote>💡 "First, solve the problem. Then, write the code." — John Johnson</blockquote>
 
 </div>
 
