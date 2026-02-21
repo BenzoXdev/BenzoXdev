@@ -76,7 +76,7 @@ const BenzoXdev = {
 *Programming Languages*
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,nim,js,ts,cs,java,go,php,ruby&theme=dark&perline=9" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,nim,js,ts,cs,java,go,php,ruby,rust&theme=dark&perline=10" alt="Programming Languages"/>
 </p>
 
 ### 🎨 Frontend Development
