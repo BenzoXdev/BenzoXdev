@@ -137,24 +137,6 @@ const BenzoXdev = {
 
 <br/>
 
-## 💡 Random Dev Quote
-
-<div align="center">
-
-<blockquote>💡 "First, solve the problem. Then, write the code." — John Johnson</blockquote>
-
-</div>
-
-<br/>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<div align="center">
-
 ### 💼 Open For Opportunities
 
 **I'm always interested in collaborating on interesting projects!**
